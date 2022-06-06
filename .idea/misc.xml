@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/drawable-anydpi/ic_action_adiciona.xml" value="0.1945" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/drawable-anydpi/ic_action_dinheiro.xml" value="0.1945" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/drawable/ic_action_add.xml" value="0.1945" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/drawable/ic_action_money.xml" value="0.1945" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/layout/activity_lista_produtos.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/layout/form_product.xml" value="0.5142428785607196" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/layout/formulario_produto.xml" value="0.37889447236180906" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/layout/product_item.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/layout/produto_item.xml" value="0.5" />
+        <entry key="..\:/Users/conifer/Documents/ProjetosAlura/estoque-alura-learning/app/src/main/res/menu/lista_produtos_menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
